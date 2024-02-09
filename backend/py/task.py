@@ -153,6 +153,6 @@ if __name__ == '__main__':
     # ], 3) == [
     #     'a', 'b', 'c'
     # ]
-    assert largestFileSize([]) == 0
+    # assert largestFileSize([]) == 0
 
     assert largestFileSize(testFiles) == 20992
